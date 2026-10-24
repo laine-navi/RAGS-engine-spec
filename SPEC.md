@@ -13,8 +13,6 @@ present in 2.6.1.
 
 **Preservation archive:** [rags game on archive.org](https://archive.org/details/rags-suite-preservation-archive)
 
-**Browser-based player:** [rags2html](https://github.com/Kassy2048/rags2html)
-
 **Decompiled source:** [RAGS-decompiled](https://github.com/laine-navi/RAGS-decompiled)
 
 ---
