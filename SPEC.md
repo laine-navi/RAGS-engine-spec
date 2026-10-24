@@ -15,7 +15,7 @@ present in 2.6.1.
 
 **Browser-based player:** [rags2html](https://github.com/Kassy2048/rags2html)
 
-~~**Decompiled source:** [RAGS-decompiled](https://github.com/laine-navi/RAGS-decompiled)~~
+**Decompiled source:** [RAGS-decompiled](https://github.com/laine-navi/RAGS-decompiled)
 
 ---
 
